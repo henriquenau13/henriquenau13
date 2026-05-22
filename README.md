@@ -1,16 +1,40 @@
-## Hi there 👋
+# Henrique Nau
 
-<!--
-**henriquenau13/henriquenau13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building my path in software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Focused on web development, currently studying and building projects using modern technologies.  
+Always aiming to improve skills and create efficient solutions.
+
+---
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github" />
+</p>
+
+---
+
+## Statistics
+
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=henriquenau13&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenau13&layout=compact&theme=default"/>
+</p>
+
+---
+
+## Contact
+
+Email: henriquenau130101.nau@gmail.com  
+Instagram: @henriquenau 
+
+---
+
+## Notes
+
+Consistent progress is more important than speed.
