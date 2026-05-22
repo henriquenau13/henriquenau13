@@ -31,7 +31,7 @@ Always aiming to improve skills and create efficient solutions.
 ## Contact
 
 Email: henriquenau130101.nau@gmail.com  
-Instagram: @henriquenau 
+Instagram: [@henriquenau](https://www.instagram.com/henriquenau/) 
 
 ---
 
