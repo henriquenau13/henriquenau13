@@ -1,5 +1,5 @@
 <h1 align="center">
- <strong>Henrique Nau</strong> 👋
+ Olá, eu sou o <strong>Henrique Nau</strong> 👋
 </h1>
 
 <p align="center">
