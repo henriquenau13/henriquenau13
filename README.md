@@ -47,29 +47,26 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" />
+</p>
 
 ---
 
 ## 🌱 O que estou estudando agora
 
-```text
-HTML & CSS      ████████████████░░░░   80%
-JavaScript      ████████████░░░░░░░░   60%
-PHP             ██████████░░░░░░░░░░   50%
-Python          ████████░░░░░░░░░░░░   40%
-MySQL           ████████████░░░░░░░░   60%
-```
+| Tecnologia | Progresso | Nível |
+|---|---|---|
+| HTML & CSS | `████████████████░░░░` | 80% |
+| JavaScript | `████████████░░░░░░░░` | 60% |
+| PHP | `██████████░░░░░░░░░░` | 50% |
+| Python | `████████░░░░░░░░░░░░` | 40% |
+| MySQL | `████████████░░░░░░░░` | 60% |
 
 ---
 
