@@ -77,6 +77,8 @@ Meu nome é Henrique Nau, tenho 16 anos e sou estudante do curso técnico em Des
 <br/>
 <br/>
 
+---
+
 ### Estatísticas
 
 <img
