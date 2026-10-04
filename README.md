@@ -15,7 +15,7 @@ Meu nome é Henrique Nau, tenho 16 anos e sou estudante do curso técnico em Des
 
 ---
 
-### Linguagens e Tecnologias
+### Linguagens e tecnologias
 
 <img
     align="left" 
