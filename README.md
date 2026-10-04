@@ -1,51 +1,96 @@
-<h1 align="center">
-  Olá, eu sou o <strong>Henrique Nau</strong> 👋
-</h1>
+# 👨‍💻Henrique Nau
 
-<p align="center">
-  <em>Estudante de Desenvolvimento de Sistemas</em>
-</p>
+**`Desenvolvedor em Formação`**
 
-<p align="center">
-  <a href="mailto:henriquenau130101.nau@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/seulinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+Meu nome é Henrique Nau, tenho 16 anos e sou estudante do curso técnico em Desenvolvimento de Sistemas no SENAI. Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de sistemas, buscando evoluir por meio da prática, de novos desafios e do aprendizado contínuo.
+
+<p align="left">
   <a href="https://instagram.com/henriquenau">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:henriquenau130101.nau@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+### Linguagens e Tecnologias
 
-- 🎓 Cursando **Desenvolvimento de Sistemas**
-- 📚 Atualmente aprendendo desenvolvimento web e back-end
-- 🚀 Sempre buscando evoluir e construir projetos legais
+<img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    align="left" 
+    alt="Mysql"
+    title="Mysql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+          
+<br/>
+<br/>
 
----
+### Estatísticas
 
-## 🛠️ Tecnologias & Ferramentas
+<img
+    align="left" 
+    alt="Github Status"
+    height="200"  
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=henriquenau13&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br"
+/>
+<img
+    align="left" 
+    alt="Github Status"
+    height="200"
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=henriquenau13&langs_count=4&hide_values=true&theme=dark&locale=pt-br"
+/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-> *(Em breve — estou construindo meu portfólio!)*
-
-<!-- Quando tiver projetos, use o modelo abaixo:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/SEU_USERNAME/NOME_DO_REPO)
--->
